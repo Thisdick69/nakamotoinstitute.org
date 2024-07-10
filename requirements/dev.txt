@@ -163,3 +163,4 @@ virtualenv==20.20.0 \
     --hash=sha256:3c22fa5a7c7aa106ced59934d2c20a2ecb7f49b4130b8bf444178a16b880fa45 \
     --hash=sha256:a8a4b8ca1e28f864b7514a253f98c1d62b64e31e77325ba279248c65fb4fcef4
     # via pre-commit
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
